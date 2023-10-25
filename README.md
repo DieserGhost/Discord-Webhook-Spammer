@@ -7,7 +7,7 @@ Requirements:
 
 - pip install requests
 
-- Python 3.11 (Download -> https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
+- Python 3.11 (Download -> https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe) - Windows
 
 # Test Server -> https://discord.gg/EgC4aydVTE
 
